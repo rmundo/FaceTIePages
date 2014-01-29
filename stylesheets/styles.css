@@ -552,6 +552,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
+  color: #e8e8e8;
   margin: 0 0 20px;
 }
 
@@ -560,7 +561,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 32px;
 }
 
 h2 {
@@ -777,7 +778,7 @@ dt {
 #header nav li.title {
   float: right;
   margin-right: 10px;
-  font-size: 11px;
+  font-size: 13px;
 }
 
 section {
@@ -789,21 +790,21 @@ section {
 section #title {
   border: 0;
   outline: none;
-  margin: 0 0 50px 0;
+  margin: 0 0 5px 0;
   padding: 0 0 5px 0;
 }
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 56px;
   text-align: center;
-  line-height: 36px;
+  line-height: 52px;
 }
 section #title p {
-  color: #d7cfbe;
+  color: #929292;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 28px;
   text-align: center;
 }
 section #title .credits {
